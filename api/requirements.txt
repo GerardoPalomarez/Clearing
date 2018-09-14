@@ -51,7 +51,6 @@ matplotlib==2.2.2
 mccabe==0.6.1
 meld3==1.0.2
 modulegraph==0.10.4
-mysql-connector-python-cext==8.0.12
 nose==1.3.7
 numpy==1.14.5
 oauthlib==2.0.2
